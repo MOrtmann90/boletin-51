@@ -43,6 +43,11 @@ img {
   height: 400px;
 }
 
+.table {
+  display: block;
+  height: 700px;
+}
+
 a:hover {
   opacity: 0.7;
 }
